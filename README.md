@@ -15,7 +15,7 @@ const mohamed = {
     role: "étudiant",
     localisation: "Chambéry, France",
     formation: "Licence INGI",
-    recherche: "Stage de 2+ mois ou plus",
+    recherche: "Alternance",
     passions: ["Développement Web", "Nouvelles Technologies", "Innovation"]
 };
 ```
