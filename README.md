@@ -1,20 +1,20 @@
 <div align="center">
 
 # Mohamed KACIMI
-### Étudiant en L3 INGI
+### Étudiant en M1 S2IN
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-kacimi)
 
 </div>
 
 ## À Propos de Moi 👨‍💻
 
-Passionné par le développement web et la transformation numérique, je suis actuellement étudiant en Licence Informatique Numérique et Gestion Industrielle (INGI) à l'IAE Savoie Mont Blanc. Mon parcours académique diversifié, alliant informatique et gestion, me permet d'apporter une perspective unique aux projets techniques.
+Passionné par le développement web et la transformation numérique, je suis actuellement étudiant en Master 1 Système d'information et innovation numérique à l'IAE Savoie Mont Blanc. Mon parcours académique diversifié, alliant informatique et gestion, me permet d'apporter une perspective unique aux projets techniques.
 
 ```javascript
 const mohamed = {
     role: "étudiant",
-    localisation: "Chambéry, France",
-    formation: "Licence INGI",
+    localisation: "Annecy, France",
+    formation: "M1 S2IN",
     recherche: "Alternance",
     passions: ["Développement Web", "Nouvelles Technologies", "Innovation"]
 };
@@ -41,8 +41,13 @@ const mohamed = {
 ## Parcours Académique 🎓
 
 ### IAE Savoie Mont Blanc - Annecy
+- 📌 Master 1 Système d'information et innovation numérique
+- 📅 2025 - 2026
+- 💡 Focus sur l'intégration des technologies numériques dans la gestion industrielle
+
+### IAE Savoie Mont Blanc - Annecy
 - 📌 Licence Informatique Numérique et Gestion Industrielle (INGI)
-- 📅 2024 - Présent
+- 📅 2024 - 2025
 - 💡 Focus sur l'intégration des technologies numériques dans la gestion industrielle
 
 ### Université Savoie Mont Blanc - Chambéry
@@ -81,7 +86,7 @@ project_details = {
 languages = {
     "Arabe": "Langue maternelle",
     "Français": "Niveau B2 (DELF B2)",
-    "Anglais": "Niveau B2 (TOEIC en cours)",
+    "Anglais": "Niveau B2 (TOEIC)",
 }
 ```
 
