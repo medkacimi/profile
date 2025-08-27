@@ -102,15 +102,8 @@ languages = {
 
 - 📧 Email : [meddkacimi@gmail.com](mailto:meddkacimi@gmail.com)
 - 📱 Téléphone : [07 45 00 25 52](tel:+33745002552)
-- 📍 Localisation : Chambéry, France
+- 📍 Localisation : Annecy, France
 
 ---
 
-<div align="center">
 
-*"La technologie est meilleure quand elle rassemble les gens."*
-
-[![GitHub followers](https://img.shields.io/github/followers/medkacimi?label=Follow&style=social)](https://github.com/medkacimi)
-[![Profile Views](https://komarev.com/ghpvc/?username=medkacimi&color=blue&style=flat)](https://github.com/medkacimi)
-
-</div>
