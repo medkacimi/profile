@@ -15,7 +15,7 @@ const mohamed = {
     role: "étudiant",
     localisation: "Annecy, France",
     formation: "M1 S2IN",
-    recherche: "Alternance",
+    recherche: "Alternance, Stage",
     passions: ["Développement Web", "Nouvelles Technologies", "Innovation"]
 };
 ```
