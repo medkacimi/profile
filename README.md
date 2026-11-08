@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mohamed KACIMI
-### Étudiant en M1 S2IN
+### Étudiant en M2 S2IN
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-kacimi)
 
 </div>
